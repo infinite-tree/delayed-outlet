@@ -4,7 +4,7 @@ Arduino Uno based delay-off-timer for electrical devices.
 
 ## Hardware
 
-  - Arduino Uno
+  - Arduino Nano (with Uno bootloader)
   - TM1637 w-digit display
   - CYT1100 Encoder knob
   - 5V controllable Relay
